@@ -17,7 +17,8 @@ I'm Sunil Kumar Pradhan, a self-taught Machine Learning enthusiast. I enjoy divi
 - 🎂 20 years young and enthusiastic about everything life has to offer.
 
 Feel free to chat about tech, share a meme, or ask me how I'm doing! Let's connect and exchange ideas!
-
+## 🔢 Visit COunt
+[![](https://visitcount.itsvg.in/api?id=SunilKumarPradhan&icon=2&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumarpradhan-921152136) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nahi_bataunga) 
 
@@ -35,6 +36,6 @@ Feel free to chat about tech, share a meme, or ask me how I'm doing! Let's conne
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SunilKumarPradhan&icon=2&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
