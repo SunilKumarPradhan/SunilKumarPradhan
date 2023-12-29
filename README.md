@@ -1,6 +1,22 @@
 # 💫 About Me:
-# Hey there! 👋<br><br>I'm Sunil Kumar Pradhan, a self-taught Machine Learning enthusiast. I enjoy diving into discussions about tech, literature, memes, culinary delights, and random trivia. Currently, I'm on the journey of mastering the art of thinking in C++.<br><br>### About Me in a Nutshell<br>- 💻 I'm your go-to person for discussions on Hackathons, Research Papers, Machine Learning Models, and NLP.<br>- 🎶 Apart from coding, I find joy in playing musical instruments. I've got a synthesizer and a basic understanding of scales and octaves, enough to create some harmonious tunes.<br><br>### What I'm Up To<br>- 🧠 Constantly learning and evolving in the world of Machine Learning.<br>- 📚 Exploring various literature and tech forums to expand my horizons.<br>- 🍳 Experimenting in the kitchen with culinary creations.<br><br>### Fun Facts<br>- 🧩 My MBTI is INTJ - I resonate with the "Architect Type."<br>- 🎂 20 years young and enthusiastic about everything life has to offer.<br><br>Feel free to chat about tech, share a meme, or ask me how I'm doing! Let's connect and exchange ideas!<br>
+Hey there! 👋
 
+I'm Sunil Kumar Pradhan, a self-taught Machine Learning enthusiast. I enjoy diving into discussions about tech, literature, memes, culinary delights, and random trivia. Currently, I'm on the journey of mastering the art of thinking in C++.
+
+### About Me in a Nutshell
+- 💻 I'm your go-to person for discussions on Hackathons, Research Papers, Machine Learning Models, and NLP.
+- 🎶 Apart from coding, I find joy in playing musical instruments. I've got a synthesizer and a basic understanding of scales and octaves, enough to create some harmonious tunes.
+
+### What I'm Up To
+- 🧠 Constantly learning and evolving in the world of Machine Learning.
+- 📚 Exploring various literature and tech forums to expand my horizons.
+- 🍳 Experimenting in the kitchen with culinary creations.
+
+### Fun Facts
+- 🧩 My MBTI is INTJ - I resonate with the "Architect Type."
+- 🎂 20 years young and enthusiastic about everything life has to offer.
+
+Feel free to chat about tech, share a meme, or ask me how I'm doing! Let's connect and exchange ideas!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-kumarpradhan-921152136) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nahi_bataunga) 
